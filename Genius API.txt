@@ -1,0 +1,6 @@
+client ID
+Aumav6QYaDpgRDaljHg-OF6dw-PeA8-12LVLL4kAagjhRutgN8TV3vkU1Fp7VM1C
+client secret
+5w5UwlgO-7Y06T3h-zTafubpMGX4o2zlE54y46tKKeIwThv3x5GmbT6cj7ebGUwYJ9M4hOwgVUg1ALH4-ZtjIQ
+client access TOKKEN
+Gfx7YiVFLGVjdlyrbgQHvfcnEf1hT4Xad0UJ3s72zFN-RqjE-qTiGhuc2ya1BJjB

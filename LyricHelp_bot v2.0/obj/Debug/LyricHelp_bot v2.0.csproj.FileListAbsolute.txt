@@ -1,0 +1,33 @@
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\LyricHelp_bot v2.0.exe.config
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\LyricHelp_bot v2.0.exe
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\LyricHelp_bot v2.0.pdb
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\Telegram.Bot.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\Telegram.Bot.xml
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\obj\Debug\LyricHelp_bot v2.0.csprojAssemblyReference.cache
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\obj\Debug\LyricHelp_bot v2.0.csproj.CoreCompileInputs.cache
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\obj\Debug\LyricHelp_bot v2.0.csproj.CopyComplete
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\obj\Debug\LyricHelp_bot v2.0.exe
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\obj\Debug\LyricHelp_bot v2.0.pdb
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\Genius.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.AppContext.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.Console.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.IO.Compression.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.IO.FileSystem.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.Net.Http.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.Net.Sockets.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\Genius.xml
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\HtmlAgilityPack.dll
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\savin\Desktop\LyricHelp_bot v2.0\LyricHelp_bot v2.0\bin\Debug\HtmlAgilityPack.xml
